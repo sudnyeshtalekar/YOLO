@@ -5,6 +5,8 @@
 
 To run this project Download the weights from [https://pjreddie.com/media/files/yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)
 
+## Comparative Table 🛠
+
 
 | Parameter | YOLO  | Primitive R-CNN | Google Vision API | IBM Watson Bluemix API |
 | ---------- | ------------- | ------------- | ------------- | -------------------- |
