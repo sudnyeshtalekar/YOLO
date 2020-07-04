@@ -69,3 +69,7 @@ For the next coming decades we need to consider the upcoming technologies like *
 * [18BCE0809 - Sudnyesh Talekar](https://github.com/sudnyeshtalekar)
 * [18BCE0811 - Devang](https://github.com/pateldevang)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
