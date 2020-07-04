@@ -62,6 +62,10 @@ For future work we hope to use similar techniques for weakly supervised image se
 
 For the next coming decades we need to consider the upcoming technologies like **5G, quantum computing** which will be a giant leap for the field of AI. With the help of quantum computing’s performance and with the help of 5G connectivity this project will give scope in many fields like remote medical operation performed by doctors (AI in healthcare), Autonomous driving etc.
 
+## Project Report ✉️
+
+[Click here](https://github.com/pateldevang/YOLO/blob/master/Project%20report/final_report.pdf)
+
 ## Authors
 
 * [18BEE0201 - Sucheet Dumbre](https://github.com/theguy2048)
