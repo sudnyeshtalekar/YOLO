@@ -5,6 +5,36 @@
 
 To run this project Download the weights from [https://pjreddie.com/media/files/yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)
 
+## YOLO Architecture 🏛
+<p align = "center">
+<img src ="Screenshots/Picture1.png" width = "450" height = "200" />
+<p align = "center">
+<img src ="Screenshots/Picture2.png" width = "400" height = "300" />
+  
+## FPS with YOLO 🖥
+<p align = "center">
+<img src ="Screenshots/Picture3.png" width = "400" height = "150" />
+  
+## YOLO Test Run 🏃‍
+<p align = "center">
+<img src = "Screenshots/Picture4.png" width = "50%" height = "50%">
+
+</p>
+<p align = "center">
+<img src = "Screenshots/Picture5.png" width = "40%" height = "40%">
+<img src = "Screenshots/Picture6.png" width = "40%" height = "40%">
+</p>
+ 
+ 
+## IBM Bluemix API (IBM Watson) App 📱
+
+<p align = "center">
+<img src = "Screenshots/Picture7.png" width = "24%" height = "24%">
+<img src = "Screenshots/Picture8.png" width = "24%" height = "24%">
+<img src = "Screenshots/Picture9.png" width = "24%" height = "24%">
+</p>
+ 
+
 ## Comparative Table 🛠
 
 
@@ -18,3 +48,24 @@ To run this project Download the weights from [https://pjreddie.com/media/files/
 | **Reliability** | Most reliable of all since it is independent of network usage | Reliable but due to poor performance, not practical for use. | Not reliable for real time since the network can fluctuate anytime. If a stable network is provided then there can be the possibility of the server not able to handle a lot of request peak hours. | Not reliable for real time since the network can fluctuate anytime. If a stable network is provided then there can be the possibility of the server not able to handle a lot of request peak hours. |
 | **Efficiency** | Efficient if good hardware is provided. | Not efficient | Efficient provided good network | Efficient provided good network |
 | **Cost** | Cost effective given that use case satisfies the cost. | Costly since very expensive hardware is required for computation | Cheap since Google Vision API (GCP credit) $300 free per month | Cheap since Watson API is bundled with other services like NLP which can be integrated. |
+
+
+## Conclusion 👏
+
+YOLO is a unified model for object detection. This model is simple to construct and can be trained directly on full images. Unlike classifier-based approaches like RCNN and its other family, YOLO is trained on a loss function that directly corresponds to detection performance and the entire model is trained jointly. Fast YOLO is the fastest general-purpose object detector in the literature and YOLO pushes the state-of-the-art in real-time object detection. YOLO also generalizes well to new domains making it ideal for applications that rely on fast, robust object detection.
+
+
+YOLO is a strong step towards closing the dataset size gap between de- tection and classification.
+Many of our techniques generalize outside of object detection. Our WordTree representation of ImageNet offers a richer, more detailed output space for image classification. Dataset combination using hierarchical classification would be useful in the classification and segmentation domains. Training techniques like multi-scale training could provide benefits across a variety of visual tasks.
+For future work we hope to use similar techniques for weakly supervised image segmentation. We also plan to improve our detection results using more powerful match- ing strategies for assigning weak labels to classification data during training. Computer vision is blessed with an enor- mous amount of labelled data. We will continue looking for ways to bring different sources and structures of data together to make stronger models of the visual world.
+
+
+For the next coming decades we need to consider the upcoming technologies like **5G, quantum computing** which will be a giant leap for the field of AI. With the help of quantum computing’s performance and with the help of 5G connectivity this project will give scope in many fields like remote medical operation performed by doctors (AI in healthcare), Autonomous driving etc.
+
+## Authors
+
+* [18BEE0201 - Sucheet Dumbre](https://github.com/theguy2048)
+* [18BCE0791 - Siddhant Keskar](https://github.com/sjkeskar)
+* [18BCE0809 - Sudnyesh Talekar](https://github.com/sudnyeshtalekar)
+* [18BCE0811 - Devang](https://github.com/pateldevang)
+
