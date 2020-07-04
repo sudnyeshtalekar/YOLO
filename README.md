@@ -3,5 +3,5 @@
 
 ## Before You Start ⚠️
 ```
-To run this project Download the weights from https://pjreddie.com/media/files/yolov3.weights
+To run this project Download the weights from [https://pjreddie.com/media/files/yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)
 ```
