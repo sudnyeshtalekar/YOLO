@@ -64,7 +64,7 @@ For the next coming decades we need to consider the upcoming technologies like *
 
 ## Project Report ✉️
 
-[Click here](https://github.com/pateldevang/YOLO/blob/master/Project%20report/final_report.pdf)
+[Click here](https://github.com/sudnyeshtalekar/YOLO/blob/master/Project%20report/final_report.pdf)
 
 ## Authors
 
